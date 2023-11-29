@@ -1,0 +1,4 @@
+fastapi==0.104.0
+numpy==1.26.1
+tensorflow==2.14.0
+tensorflow_macos==2.14.0
